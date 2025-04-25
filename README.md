@@ -9,7 +9,7 @@ A mobile-optimized links tracker app built with HTML, CSS, and JavaScript. This 
 - View and manage your saved links.
 - Responsive design tailored for mobile devices.
 - Built with vanilla JavaScript—no external libraries required.
-- Data persistence using Firebase Realtime Database.
+- Data persistence using Firebase Realtime Database. _Please note: as the structure of this app would allow anyone to save anything to the database, I have changes turned off the 'write' functionality of the firebase db attached to this app_.
 
 ## 🚀 Live Demo
 
